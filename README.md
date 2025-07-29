@@ -264,5 +264,8 @@ For questions or support:
 - [ ] Decentralized model hosting integration
 
 ---
+Contact address:0xd9145CCE52D386f254917e481eB44e9943F39138
+<img width="1918" height="1089" alt="Screenshot 2025-07-29 130903" src="https://github.com/user-attachments/assets/96d4b173-b6db-4996-ae32-83f16f4c8e23" />
+
 
 *Built with ❤️ for the decentralized AI ecosystem*
